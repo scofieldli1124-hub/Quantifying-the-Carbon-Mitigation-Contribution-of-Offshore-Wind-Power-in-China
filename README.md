@@ -9,7 +9,6 @@ The study also examines regional disparities across coastal provinces.
 ## Repository Structure
 
 data/        - datasets used in the analysis  
-Manuscript/  - research paper 
 scripts/     - Python code for analysis  
 
 ## Data Description
